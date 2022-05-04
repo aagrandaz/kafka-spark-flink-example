@@ -5,6 +5,7 @@ Example project on how to use [Apache Kafka](https://kafka.apache.org) and strea
 - Consumer using Kafka to output received messages
 - Streaming Consumer using [Apache Spark](https://spark.apache.org) to count words occurrences
 - Streaming Consumer using [Apache Flink](https://flink.apache.org) to count words occurrences 
+- Bloc: https://hands-on-tech.github.io/2018/11/01/kafka-spark-flink-example.html
 
 Requirements
 ---
